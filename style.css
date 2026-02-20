@@ -1,11 +1,10 @@
-*(
-    background-color: aqua
+*{
+    background-color: chocolate;
+}
+h1{
+    color: yellow;
+}
+img{
+    width: 300px;
 
-)
-h1(
-    color: pink
-    img(
-        width: 200px
-    )
-
-)
+}
