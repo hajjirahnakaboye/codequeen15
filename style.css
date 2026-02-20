@@ -1,10 +1,14 @@
-*{
-    background-color: chocolate;
-}
 h1{
     color: yellow;
 }
 img{
     width: 300px;
 
+}
+
+.mango{
+    color: blue;
+}
+.food{
+    background-color: greenyellow;
 }
