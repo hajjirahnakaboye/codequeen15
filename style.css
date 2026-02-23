@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 h1{
     color: yellow;
 }
@@ -11,4 +15,24 @@ img{
 }
 .food{
     background-color: greenyellow;
+}
+#sample{
+    background-color: burlywood;
+    /* border-color:3px rgb(red, green, blue); solid; */
+    border:5px maroon solid;
+}
+.first{
+    border-style: dotted;
+    margin: 20px 30px;
+    padding: 40px;
+}
+
+/* My flex box properties */
+.container{
+    background-color: aqua;
+}
+.child{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
 }
