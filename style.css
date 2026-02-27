@@ -58,7 +58,14 @@ img{
     border: 1px grey solid;
     display: flex;
 }
+
 .img{
     width: 3opx;
     border-radius: 50%;
+
+}
+
+    /* bootstrap */
+.hajjirah{
+    background-color: yellowgreen;
 }
